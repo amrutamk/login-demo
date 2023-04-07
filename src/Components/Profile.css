@@ -1,0 +1,42 @@
+#error-msg{
+    text-align: center;
+    color: red;
+}
+
+.profile{
+    background-color:   rgb(176, 193, 240);
+    height: 100vh;
+    padding-top: 100px;
+}
+
+#profile-pic{
+    border-radius: 200px;
+    height: 100px;
+    width: 100px;
+    margin: 0 auto;
+    display: block;
+ 
+}
+.profile-info{
+    background-color: white;
+    padding: 20px 30px;
+    border-radius:20px ;
+    width: 300px;
+    margin: 0 auto;
+    
+
+}
+
+#logout-btn{
+	margin: 20px;
+	background-color: rgb(40, 132, 213);
+	text-align: center;
+	color: white;
+	height: 30px;
+	width: 100px;
+	border-radius: 10px;
+}
+
+#logout{
+    text-align: right;
+}
